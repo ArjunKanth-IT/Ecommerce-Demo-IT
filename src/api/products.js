@@ -6,8 +6,8 @@ import aa from '../assets/aa.webp';
 import shoes from '../assets/shoes.webp';
 import stand from '../assets/stand.jpg';
 import glass from '../assets/glass.jpg';
-import banner1 from '../assets/banner1.jpg';
-import banner2 from '../assets/banner2.jpg';
+// import banner1 from '../assets/banner1.jpg';
+// import banner2 from '../assets/banner2.jpg';
 
 const MOCK_PRODUCTS = [
   {
